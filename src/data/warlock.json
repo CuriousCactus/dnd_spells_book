@@ -1,0 +1,202 @@
+[
+  {
+    "c_lvl": "1st",
+    "c_pb": "+2",
+    "c_features": "Otherworldly Patron, Pact Magic",
+    "c_cantrips": "2",
+    "c_spells": "2",
+    "c_spell_slots": "1",
+    "c_slot_lvl": "1st",
+    "c_eis": "0"
+  },
+  {
+    "c_lvl": "2nd",
+    "c_pb": "+2",
+    "c_features": "Eldritch Invocations",
+    "c_cantrips": "2",
+    "c_spells": "3",
+    "c_spell_slots": "2",
+    "c_slot_lvl": "1st",
+    "c_eis": "2"
+  },
+  {
+    "c_lvl": "3rd",
+    "c_pb": "+2",
+    "c_features": "Pact Boon",
+    "c_cantrips": "2",
+    "c_spells": "4",
+    "c_spell_slots": "2",
+    "c_slot_lvl": "2nd",
+    "c_eis": "2"
+  },
+  {
+    "c_lvl": "4th",
+    "c_pb": "+2",
+    "c_features": "Ability Score Improvement",
+    "c_cantrips": "3",
+    "c_spells": "5",
+    "c_spell_slots": "2",
+    "c_slot_lvl": "2nd",
+    "c_eis": "2"
+  },
+  {
+    "c_lvl": "5th",
+    "c_pb": "+3",
+    "c_features": "Eldritch Invocations",
+    "c_cantrips": "3",
+    "c_spells": "6",
+    "c_spell_slots": "2",
+    "c_slot_lvl": "3rd",
+    "c_eis": "3"
+  },
+  {
+    "c_lvl": "6th",
+    "c_pb": "+3",
+    "c_features": "Otherworldly Patron Feature",
+    "c_cantrips": "3",
+    "c_spells": "7",
+    "c_spell_slots": "2",
+    "c_slot_lvl": "3rd",
+    "c_eis": "3"
+  },
+  {
+    "c_lvl": "7th",
+    "c_pb": "+3",
+    "c_features": "Eldritch Invocations",
+    "c_cantrips": "3",
+    "c_spells": "8",
+    "c_spell_slots": "2",
+    "c_slot_lvl": "4th",
+    "c_eis": "4"
+  },
+  {
+    "c_lvl": "8th",
+    "c_pb": "+3",
+    "c_features": "Ability Score Improvement",
+    "c_cantrips": "3",
+    "c_spells": "9",
+    "c_spell_slots": "2",
+    "c_slot_lvl": "4th",
+    "c_eis": "4"
+  },
+  {
+    "c_lvl": "9th",
+    "c_pb": "+4",
+    "c_features": "Eldritch Invocations",
+    "c_cantrips": "3",
+    "c_spells": "10",
+    "c_spell_slots": "2",
+    "c_slot_lvl": "5th",
+    "c_eis": "5"
+  },
+  {
+    "c_lvl": "10th",
+    "c_pb": "+4",
+    "c_features": "Otherworldly Patron Feature",
+    "c_cantrips": "4",
+    "c_spells": "10",
+    "c_spell_slots": "2",
+    "c_slot_lvl": "5th",
+    "c_eis": "5"
+  },
+  {
+    "c_lvl": "11th",
+    "c_pb": "+4",
+    "c_features": "Mystic Arcanum (6th level)",
+    "c_cantrips": "4",
+    "c_spells": "11",
+    "c_spell_slots": "3",
+    "c_slot_lvl": "5th",
+    "c_eis": "5"
+  },
+  {
+    "c_lvl": "12th",
+    "c_pb": "+4",
+    "c_features": "Ability Score Improvement",
+    "c_cantrips": "4",
+    "c_spells": "11",
+    "c_spell_slots": "3",
+    "c_slot_lvl": "5th",
+    "c_eis": "6"
+  },
+  {
+    "c_lvl": "13th",
+    "c_pb": "+5",
+    "c_features": "Mystic Arcanum (7th level)",
+    "c_cantrips": "4",
+    "c_spells": "12",
+    "c_spell_slots": "3",
+    "c_slot_lvl": "5th",
+    "c_eis": "6"
+  },
+  {
+    "c_lvl": "14th",
+    "c_pb": "+5",
+    "c_features": "Otherworldly Patron Feature",
+    "c_cantrips": "4",
+    "c_spells": "12",
+    "c_spell_slots": "3",
+    "c_slot_lvl": "5th",
+    "c_eis": "6"
+  },
+  {
+    "c_lvl": "15th",
+    "c_pb": "+5",
+    "c_features": "Mystic Arcanum (8th level)",
+    "c_cantrips": "4",
+    "c_spells": "13",
+    "c_spell_slots": "3",
+    "c_slot_lvl": "5th",
+    "c_eis": "7"
+  },
+  {
+    "c_lvl": "16th",
+    "c_pb": "+5",
+    "c_features": "Ability Score Improvement",
+    "c_cantrips": "4",
+    "c_spells": "13",
+    "c_spell_slots": "3",
+    "c_slot_lvl": "5th",
+    "c_eis": "7"
+  },
+  {
+    "c_lvl": "17th",
+    "c_pb": "+6",
+    "c_features": "Mystic Arcanum (9th level)",
+    "c_cantrips": "4",
+    "c_spells": "14",
+    "c_spell_slots": "4",
+    "c_slot_lvl": "5th",
+    "c_eis": "7"
+  },
+  {
+    "c_lvl": "18th",
+    "c_pb": "+6",
+    "c_features": "Eldritch Invocations",
+    "c_cantrips": "4",
+    "c_spells": "14",
+    "c_spell_slots": "4",
+    "c_slot_lvl": "5th",
+    "c_eis": "8"
+  },
+  {
+    "c_lvl": "19th",
+    "c_pb": "+6",
+    "c_features": "Ability Score Improvement",
+    "c_cantrips": "4",
+    "c_spells": "15",
+    "c_spell_slots": "4",
+    "c_slot_lvl": "5th",
+    "c_eis": "8"
+  },
+  {
+    "c_lvl": "20th",
+    "c_pb": "+6",
+    "c_features": "Eldritch Master",
+    "c_cantrips": "4",
+    "c_spells": "15",
+    "c_spell_slots": "4",
+    "c_slot_lvl": "5th",
+    "c_eis": "8"
+  }
+]

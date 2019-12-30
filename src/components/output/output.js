@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import DataTable from './../data-table/data-table'
+import CharacterSheet from './../character-sheet/character-sheet'
 import DiceRolls from './../dice-roll/dice-roll'
 
 class Output extends Component {
@@ -33,11 +34,11 @@ class Output extends Component {
           <div className={'lander-button'} view={'dataTable'} onClick={(e) => {this.pickView(e)}}>
             <span>List of Spells</span>
           </div>
+          <div className={'lander-button'} view={'characterSheet'} onClick={(e) => {this.pickView(e)}}>
+            <span>Character Sheet</span>
+          </div>
           <div className={'lander-button'} view={'diceRoll'} onClick={(e) => {this.pickView(e)}}>
             <span>Dice Roll</span>
-          </div>
-          <div className={'lander-button disabled'} view={'characterSheet'}>
-            <span>Character Sheet</span>
           </div>
           <div className={'lander-button disabled'} view={'musicBoard'}>
             <span>Music Board</span>
@@ -50,6 +51,9 @@ class Output extends Component {
     }
     else if (this.state.currentView === 'dataTable') {
       return <DataTable />
+    }
+    else if (this.state.currentView === 'characterSheet') {
+      return <CharacterSheet />
     }
     else if (this.state.currentView === 'diceRoll') {
       return <DiceRolls />
